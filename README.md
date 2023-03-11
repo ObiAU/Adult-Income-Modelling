@@ -13,4 +13,4 @@ My research questions primarily focus on the
 extent to which these variables are associated with differences in income levels, alongside the effects of my
 specific recategorization technique on model performance.
 
-See EDA file for my specifica recategorization method.
+See EDA file for my specific recategorization method.
